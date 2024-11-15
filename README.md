@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NoaPetel/NoaPetel/blob/main/pp.png" alt="Noa PETEL" height="200" style="margin-right: 20px"/>
+  <img src="https://github.com/NoaPetel/NoaPetel/blob/main/pp.PNG" alt="Noa PETEL" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=NoaPETEL&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 ## Hi there 👋
