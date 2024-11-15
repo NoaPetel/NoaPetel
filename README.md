@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://github.com/NoaPetel/NoaPetel/blob/main/pp.png" alt="Noa PETEL" height="200" style="margin-right: 20px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoaPETEL&show_icons=true&theme=graywhite" alt="Github Stats" />
+</p>
 ## Hi there 👋
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my school project such as DeepLearning AI and Android Application
 - 🌱 I’m currently learning new frameworks and languages such as Pytorch and Kotlin
