@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### Curriculum Vitae
 
-[Check out my resume here !]()
+[Check out my resume here !](https://github.com/NoaPetel/NoaPetel/blob/main/resume_PETEL.pdf)
 ### Langages  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 
+### More
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
