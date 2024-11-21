@@ -13,16 +13,28 @@
 ### Curriculum Vitae
 
 [Check out my resume here !](https://github.com/NoaPetel/NoaPetel/blob/main/resume_PETEL.pdf)
-### Langages  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+--- 
+
+### Key Projects
+
+#### [🛍️ Web4Shop - E-commerce website *(2023)*](https://github.com/NoaPetel/web4shop)
+
+An online store for premium teas and chocolates, featuring easy browsing and secure checkout.
+
+<p align="center">
+	<a href="https://github.com/NoaPetel/web4shop"><img src="" width="500"></a>
+</p>
+
+<br>
+
+#### [🎮 OneCombat - One Piece Fighting Game *(2022)*](https://github.com/NoaPetel/OneCombat)
+
+This project is a fighting game set in the One Piece universe, allowing players to battle against friends or AI opponents.
+
+<p align="center">
+	<a href="https://github.com/NoaPetel/OneCombat"><img src="https://github.com/NoaPetel/OneCombat/blob/main/onecombat.gif" width="500"></a>
+</p>
 
 ### More
 
