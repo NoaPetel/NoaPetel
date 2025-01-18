@@ -21,7 +21,7 @@
 Leafy is a smart plant watering application that helps users track and manage their plants' watering schedules to keep them healthy and thriving
 
 <p align="center">
-	<a href="https://github.com/NoaPetel/Leafy"><img src="https://github.com/NoaPetel/Leafy/blob/main/gif_leafy.gif" width="500"></a>
+	<a href="https://github.com/NoaPetel/Leafy"><img src="https://github.com/NoaPetel/Leafy/blob/main/gif_leafy.gif"  height="500"></a>
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Leafy is a smart plant watering application that helps users track and manage th
 An online store for premium teas and chocolates, featuring easy browsing and secure checkout.
 
 <p align="center">
-	<a href="https://github.com/NoaPetel/web4shop"><img src="" width="500" height="600"></a>
+	<a href="https://github.com/NoaPetel/web4shop"><img src="" width="500" ></a>
 </p>
 
 <br>
