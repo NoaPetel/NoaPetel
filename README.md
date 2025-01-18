@@ -31,7 +31,7 @@ Leafy is a smart plant watering application that helps users track and manage th
 An online store for premium teas and chocolates, featuring easy browsing and secure checkout.
 
 <p align="center">
-	<a href="https://github.com/NoaPetel/web4shop"><img src="" width="500"></a>
+	<a href="https://github.com/NoaPetel/web4shop"><img src="" width="500" height="600"></a>
 </p>
 
 <br>
