@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/NoaPetel/NoaPetel/blob/main/pp.PNG" alt="Noa PETEL" height="200" style="margin-right: 20px"/>
+  <img src="banner.png" alt="Noa PETEL" height="200" style="margin-right: 20px"/>
+
+  <!-- <img src="https://github.com/NoaPetel/NoaPetel/blob/main/Jah.png" alt="Noa PETEL" height="200" style="margin-right: 20px"/> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=NoaPETEL&show_icons=true&theme=graywhite" alt="Github Stats" /> -->
 </p>
 
@@ -13,7 +15,6 @@
 [Check out my resume here !](https://github.com/NoaPetel/NoaPetel/blob/main/resume_PETEL.pdf)
 
 --- 
-
 ### Key Projects
 
 #### [🌱 Leafy - Plant Watering Application *(2024)*](https://github.com/NoaPetel/Leafy)
