@@ -5,19 +5,24 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=NoaPETEL&show_icons=true&theme=graywhite" alt="Github Stats" /> -->
 </p>
 
-## Hi there 👋
+# Welcome on my Github Page 👋
 
-- 🔭 I’m currently working on my schools projects such as DeepLearning AI and Android Application
-- 🌱 I’m currently learning new frameworks and languages such as Pytorch and Kotlin
+I'm currently working as an intern at Dattico, a data consultancy company based in Auderghem, Belgium.
+<br>
+In my free time, I enjoy developing various projects, including web applications and AI-related work.
+Below are some of the main projects I've been working on. 
+
+# Contact 
 - 📫 How to reach me: petel.noa@gmail.com
 - 🔗 My LinkedIn : https://www.linkedin.com/in/noa-petel-8b09a6269/
 
 [Check out my resume here !](https://github.com/NoaPetel/NoaPetel/blob/main/resume_PETEL.pdf)
 
---- 
-### Key Projects
+<br>
 
-#### [🌱 Leafy - Plant Watering Application *(2024)*](https://github.com/NoaPetel/Leafy)
+# Key Projects
+
+### [🌱 Leafy - Plant Watering Application *(2024)*](https://github.com/NoaPetel/Leafy)
 
 Leafy is a smart plant watering application that helps users track and manage their plants' watering schedules to keep them healthy and thriving
 
@@ -27,7 +32,7 @@ Leafy is a smart plant watering application that helps users track and manage th
 
 <br>
 
-#### [🛍️ Web4Shop - E-commerce website *(2023)*](https://github.com/NoaPetel/web4shop)
+### [🛍️ Web4Shop - E-commerce website *(2023)*](https://github.com/NoaPetel/web4shop)
 
 An online store for premium teas and chocolates, featuring easy browsing and secure checkout.
 
@@ -37,7 +42,7 @@ An online store for premium teas and chocolates, featuring easy browsing and sec
 
 <br>
 
-#### [🎮 OneCombat - One Piece Fighting Game *(2022)*](https://github.com/NoaPetel/OneCombat)
+### [🎮 OneCombat - One Piece Fighting Game *(2022)*](https://github.com/NoaPetel/OneCombat)
 
 This project is a fighting game set in the One Piece universe, allowing players to battle against friends or AI opponents.
 
