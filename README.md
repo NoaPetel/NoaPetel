@@ -5,7 +5,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=NoaPETEL&show_icons=true&theme=graywhite" alt="Github Stats" /> -->
 </p>
 
-# Welcome on my Github Page 👋
+# Welcome to my GitHub Page 👋
 
 I'm currently working as an intern at Dattico, a data consultancy company based in Auderghem, Belgium.
 <br>
