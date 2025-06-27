@@ -29,7 +29,7 @@ Below are some of the main projects I've been working on.
 
 # 🚀 Key Projects
 
-### [🌱 NoteApp - A Note Application using AI *(2025)*](https://github.com/NoaPetel/NoteApp)
+### [📝 NoteApp - A Note Application using AI *(2025)*](https://github.com/NoaPetel/NoteApp)
 
 This project is a basic note-taking application built with AWS services (Amplify, Lambda, DynamoDB) and integrates OpenAI to summarize notes.
 
