@@ -14,18 +14,20 @@ Below are some of the main projects I've been working on.
 
 # 💬 Contact & Informations
 <p align="center">
-	<a href="www.linkedin.com/in/noa-petel">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a
-	<span>&nbsp;</span>
-	<a href="mailto:petel.noa@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:petel.noa@gmail.com">
-		<img src="https://img.shields.io/badge/Download%20my%20resume-2E6F40?style=for-the-badge&logo=files&logoColor=white">
-	</a>
+  <a href="https://www.linkedin.com/in/noa-petel" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="mailto:petel.noa@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://raw.githubusercontent.com/NoaPetel/NoaPetel/main/resume_PETEL.pdf" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Download%20my%20resume-2E6F40?style=for-the-badge&logo=files&logoColor=white" alt="Download Resume" />
+</a>
+
 </p>
+
 
 # 🚀 Key Projects
 
